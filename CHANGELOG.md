@@ -1,5 +1,12 @@
 # Changelog
 
+## [24.11.1](https://github.com/Koenkk/zigbee-herdsman-converters/compare/v24.11.0...v24.11.1) (2025-08-01)
+
+
+### Bug Fixes
+
+* YSRSAI YSR-MINI-01_dimmer: fix state not reported when changed via the device https://github.com/Koenkk/zigbee2mqtt/issues/28133 ([8cc9d56](https://github.com/Koenkk/zigbee-herdsman-converters/commit/8cc9d561a16a171026cdc99010114a3963656cd2))
+
 ## [24.11.0](https://github.com/Koenkk/zigbee-herdsman-converters/compare/v24.10.0...v24.11.0) (2025-08-01)
 
 
